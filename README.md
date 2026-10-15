@@ -1,2 +1,2 @@
 # CLOUD-OPTIMIZATION
-Cloud-timization TD Group
+Cloud-optimization TD Group
